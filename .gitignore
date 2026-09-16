@@ -1,0 +1,4 @@
+analisis_rendimiento_academico/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
